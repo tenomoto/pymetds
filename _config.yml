@@ -1,0 +1,14 @@
+title: Pythonによる気象データサイエンス
+author: 榎本剛
+
+execute:
+  execute_notebooks: "off"
+
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - dollarmath
+
+#latex:
+#  latex_engine: uplatex
+#  use_jupyterbook_latex : true

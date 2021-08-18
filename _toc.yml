@@ -1,0 +1,16 @@
+format: jb-book
+root: index
+chapters:
+- file: Introduction.md
+  sections:
+    - file: Matplotlib.ipynb
+    - file: Numpy.ipynb
+- file: Format.md
+  sections:
+    - file: JSON.ipynb
+    - file: MGDSST.ipynb
+    - file: Himawari.ipynb
+- file: Stat.md
+  sections:
+    - file: Huber.ipynb
+    - file: Lorenz.ipynb

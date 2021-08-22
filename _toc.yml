@@ -14,6 +14,7 @@ chapters:
 - file: Stat.md
   sections:
     - file: Huber.ipynb
+    - file: EOF.ipynb
     - file: Lorenz.ipynb
 - file: Bibliography.md
 - file: Install.md

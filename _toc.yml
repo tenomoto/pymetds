@@ -10,8 +10,10 @@ chapters:
     - file: JSON.ipynb
     - file: MGDSST.ipynb
     - file: Himawari.ipynb
+    - file: Reanalysis.ipynb
 - file: Stat.md
   sections:
     - file: Huber.ipynb
     - file: Lorenz.ipynb
 - file: Bibliography.md
+- file: Install.md

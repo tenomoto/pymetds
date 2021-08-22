@@ -1,5 +1,6 @@
 title: Pythonによる気象データサイエンス
 author: 榎本剛
+only_build_toc_files: true
 
 execute:
   execute_notebooks: "off"

@@ -22,5 +22,5 @@ chapters:
     - file: EOF.ipynb
     - file: Lorenz.ipynb
 - file: Bibliography.md
-- file: Acknowledgments.md
+- file: Acknowledgements.md
 - file: Install.md

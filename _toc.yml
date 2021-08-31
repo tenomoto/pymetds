@@ -15,10 +15,12 @@ chapters:
   sections:
     - file: Q-vector.ipynb
     - file: Wave_Activity_Flux.ipynb
+    - file: Typhoon.ipynb
 - file: Stat.md
   sections:
     - file: Huber.ipynb
     - file: EOF.ipynb
     - file: Lorenz.ipynb
 - file: Bibliography.md
+- file: Acknowledgments.md
 - file: Install.md

@@ -11,6 +11,7 @@ chapters:
     - file: MGDSST.ipynb
     - file: Himawari.ipynb
     - file: Reanalysis.ipynb
+    - file: MSM.ipynb
 - file: Dyn.md
   sections:
     - file: Q-vector.ipynb
